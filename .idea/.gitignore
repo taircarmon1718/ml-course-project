@@ -1,3 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Ignore specific Python scripts
+creating_excel.py
+forme.py
+visualize_eye_predictions.py
