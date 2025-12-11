@@ -1,0 +1,8 @@
+path: C:/Users/carmonta/Desktop/PrawnPose_YOLOv11_Analysis/datasets/train_on_all
+train: images
+val: val
+
+nc: 1
+names: ['prawn']
+kpt_shape: [4, 3]
+flip_idx: [0, 1, 2, 3]
